@@ -1,1 +1,1 @@
-# mini-ride-bike-rental
+# bike-rental
